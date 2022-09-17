@@ -8,6 +8,7 @@ namespace Testgit
     public class Test
     {
         int a = 1;
-        string a = "abc";
+        string b = "abc";
+        bool c = true;
     }
 }
